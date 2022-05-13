@@ -2,8 +2,8 @@
 
 int main(void)
 {
-	printf("Hello World!");
-	printf("Kim ChulSoo");
+	printf("Hello World!\n");
+	printf("Kim ChulSoo\n");
 
 	return 0;
 }
